@@ -24,7 +24,7 @@ namespace Selenium_new_code
         public void test()
         {
             driver.Url = "http://www.google.co.in";
-            Console.WriteLine(driver.Title + " coming from test 1,hello ");
+            Console.WriteLine(driver.Title + " coming from test 1 kamal rawal,hello ");
         }
 
         [TearDown]
